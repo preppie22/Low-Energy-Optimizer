@@ -1,4 +1,4 @@
-# Low-Energy-Optimizer
+# Low Energy Optimizer
 
 This is part of a class project for CS 789: Real-Time and Embedded Systems. This tool estimates power draw in a standard server rack while taking into account
 heat transfer and cooling systems. Currently, there are a ton of assumptions made for the sake of simplicity, but these can be improved upon to create a more robust
