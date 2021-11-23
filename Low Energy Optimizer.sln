@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Low Energy Optimizer", "Low Energy Optimizer.csproj", "{FEEC4728-E5BD-4339-B1E3-460721336FF7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FEEC4728-E5BD-4339-B1E3-460721336FF7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEEC4728-E5BD-4339-B1E3-460721336FF7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEEC4728-E5BD-4339-B1E3-460721336FF7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEEC4728-E5BD-4339-B1E3-460721336FF7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {49676667-7E5B-4D94-9EB9-CA9768C6BB62}
+	EndGlobalSection
+EndGlobal
